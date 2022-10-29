@@ -1,0 +1,2 @@
+* napraviti genersianje izveštaja
+* podešavanja korisnika (lični podaci i promena lozinke)
