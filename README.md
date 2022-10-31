@@ -26,4 +26,4 @@ Back-end:
   testni password: 1810
   
   
-  https://www.chimers.rs
+  https://www.chimera.rs
